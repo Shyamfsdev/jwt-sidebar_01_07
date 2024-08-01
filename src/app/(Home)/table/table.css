@@ -1,0 +1,64 @@
+.input-div{
+    background-color: rgb(204, 227, 227) ;
+}
+
+.input-div{
+    border:1px solid black;
+}
+
+input{
+    border:none;
+    outline:none;
+    background-color: unset;
+}
+
+.input-button{
+    width:300px;
+}
+
+.input-button button{
+    background-color: rgb(16, 81, 202);
+    border-radius: 5px;
+    width:105px;
+}
+
+.modal-boxx{
+    position: relative;
+    top:50px;
+    left:480px;
+}
+
+.stack-spacing{
+    position:relative;
+    bottom: 49px;
+}
+
+.data-grid-height{
+    height: 100vh;
+} 
+
+/* .MuiDataGrid-footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    
+  }
+  
+  .MuiTablePagination-root {
+    flex-grow: 1;
+  }
+  
+  .MuiDataGrid-pagination {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    
+    
+  }
+  
+  .MuiTablePagination-spacer {
+    display: none; 
+  } */

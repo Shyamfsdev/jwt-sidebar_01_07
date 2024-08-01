@@ -1,0 +1,35 @@
+/* .input-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .input-button button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .input-div input {
+    width: 50%;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .modal-body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .modal-body .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+   */
